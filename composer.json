@@ -1,0 +1,14 @@
+{
+    "name": "upida/mvc-me",
+    "authors": [
+        {
+            "name": "Upida",
+            "email": "salmamufida34@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": ["controller/", "model/", "config/", "./"]
+        }
+    }
+}
